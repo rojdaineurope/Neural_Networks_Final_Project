@@ -4,3 +4,4 @@ chroma_db/
 *.sqlite3
 __pycache__/
 .env
+cleaned_reviews.csv
